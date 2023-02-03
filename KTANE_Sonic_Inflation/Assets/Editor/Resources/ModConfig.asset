@@ -11,10 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: template
-  title: Template
-  author: 
-  description: 
-  version: 
+  id: WhereIsWally
+  title: Where Is Wally
+  author: TonyNoNose
+  description: "\"No one ever asks \"How is Wally?\".\"\r\n\nFind Wally. Press picture
+    when is Wally."
+  version: 0.1
   outputFolder: build
-  previewImage: {fileID: 0}
+  previewImage: {fileID: 2800000, guid: d91af914c482f6843b5f5303785c3fca, type: 3}
